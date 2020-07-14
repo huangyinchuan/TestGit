@@ -3,7 +3,7 @@ package com.atgit.git;
 public class HelloGitHub {
 	
 	public static void main(String[] args) {
-		System.out.println("Í¨¹ıGitHub¿ËÂ¡µÄÏîÄ¿ÄÚÈİ");
+		System.out.println("é€šè¿‡GitHubå…‹éš†çš„é¡¹ç›®å†…å®¹");
 		
 	}
 }
